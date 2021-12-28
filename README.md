@@ -3,9 +3,11 @@ Support System API
 
 To run the project do the following:
 
-1-run composer install --ignore-platform-reqs
-1-Configure .env file as necessary (configure database credits and mail trap credits).
-2-Run php artisan serve and php artisan schedule:work (in seperate terminals).
+run composer install --ignore-platform-reqs
+
+Configure .env file as necessary (configure database credits and mail trap credits).
+
+Run php artisan serve and php artisan schedule:work (in seperate terminals).
 
 
 to make a request
