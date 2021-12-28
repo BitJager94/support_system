@@ -10,6 +10,7 @@ To run the project do the following:
 -Run php artisan serve and php artisan schedule:work (in seperate terminals).
 
 
+
 to make a request:
 
 -first attemp to register a new user (customer or employee).
